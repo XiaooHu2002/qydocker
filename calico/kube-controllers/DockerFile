@@ -1,2 +1,0 @@
-# 第三个镜像
-FROM docker.io/calico/kube-controllers
