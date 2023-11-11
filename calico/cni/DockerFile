@@ -1,2 +1,0 @@
-# 第一个镜像
-FROM docker.io/calico/cni
