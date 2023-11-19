@@ -1,1 +1,1 @@
-rook/ceph:master
+FROM rook/ceph:master
