@@ -1,1 +1,1 @@
-FROM sonar-scanner-cli:latest
+FROM docker.io/sonarsource/sonar-scanner-cli:latest
